@@ -1,7 +1,7 @@
 ### Hi, I am Diogo!👋
 &nbsp;
 
-## My Skills
+## Featured skills
 
 &nbsp;
 &nbsp;
@@ -13,7 +13,7 @@
 &nbsp;
 &nbsp;
 
-#### Studying in this moment:
+#### Learning:
 
 &nbsp;
 &nbsp;
@@ -33,12 +33,6 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Workstation Tools:
-
-&nbsp;
-
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
 &nbsp;
 
